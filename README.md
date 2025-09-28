@@ -5,6 +5,12 @@ Exercício #4 da semana #3, de nome "Blog de gatos". Parte do curso "Explorer", 
 Este exercício é focado no estudo das linguagens HTML e CSS, trabalhando com os conceitos de display grid, variáveis CSS, cores HSL,
 animações e transições.
 
+<br>
+  <img width="406" height="235" alt="Mockup - Desktop" src="https://github.com/user-attachments/assets/134ff139-e7cb-46d2-b8db-ec3c4d6e74ec" />
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="115" height="235" alt="Mockup - Mobile" src="https://github.com/user-attachments/assets/f3466968-3949-4b59-b1d0-255ace95c00b" />
+<br>
+
 # Exercise - HTML & CSS Animations
 
 Exercise #4 from Week #3, named "Blog de gatos". Part of the program "Explorer", from the online platform [Rocketseat](https://rocketseat.com.br/).
